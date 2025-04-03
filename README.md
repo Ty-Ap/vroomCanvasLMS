@@ -1,7 +1,7 @@
 # vroomCanvasLMS
 make canvas videos go fasterfied
 
-🎥 speed-up-canvas-video.js
+🎥 CanvasVidSkipper.js
 
     Hacky lil' script to speed up Canvas LMS videos because we are not watching that at 1x like a chump.
 
